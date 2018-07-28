@@ -1,0 +1,5 @@
+name: bancaService
+path: D:/Periyava/PCF/demo1/target/demo1-0.0.1-SNAPSHOT.jar
+memory: 1G
+services:
+  - mybpdsRegistry
