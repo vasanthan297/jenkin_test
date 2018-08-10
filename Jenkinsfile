@@ -14,6 +14,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo "TEST2"
+				bat "cf -v"
             }
         }
     }
